@@ -1,0 +1,6 @@
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\livecode02\bin\Debug\livecode02.exe.config
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\livecode02\obj\Debug\livecode02.csprojResolveAssemblyReference.cache
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\livecode02\bin\Debug\livecode02.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\livecode02\bin\Debug\livecode02.pdb
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\livecode02\obj\Debug\livecode02.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\livecode02\obj\Debug\livecode02.pdb

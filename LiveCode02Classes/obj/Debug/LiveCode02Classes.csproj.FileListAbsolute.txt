@@ -1,0 +1,6 @@
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\LiveCode02Classes\bin\Debug\LiveCode02Classes.exe.config
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\LiveCode02Classes\bin\Debug\LiveCode02Classes.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\LiveCode02Classes\bin\Debug\LiveCode02Classes.pdb
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\LiveCode02Classes\obj\Debug\LiveCode02Classes.csprojResolveAssemblyReference.cache
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\LiveCode02Classes\obj\Debug\LiveCode02Classes.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\LiveCode02Classes\obj\Debug\LiveCode02Classes.pdb

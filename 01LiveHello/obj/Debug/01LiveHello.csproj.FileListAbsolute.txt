@@ -1,0 +1,6 @@
+c:\users\ferri\onedrive\documents\visual studio 2015\Projects\LiveCode\01LiveHello\bin\Debug\01LiveHello.exe.config
+C:\Users\ferri\onedrive\documents\visual studio 2015\Projects\LiveCode\01LiveHello\bin\Debug\01LiveHello.exe
+C:\Users\ferri\onedrive\documents\visual studio 2015\Projects\LiveCode\01LiveHello\bin\Debug\01LiveHello.pdb
+C:\Users\ferri\onedrive\documents\visual studio 2015\Projects\LiveCode\01LiveHello\obj\Debug\01LiveHello.csprojResolveAssemblyReference.cache
+C:\Users\ferri\onedrive\documents\visual studio 2015\Projects\LiveCode\01LiveHello\obj\Debug\01LiveHello.exe
+C:\Users\ferri\onedrive\documents\visual studio 2015\Projects\LiveCode\01LiveHello\obj\Debug\01LiveHello.pdb

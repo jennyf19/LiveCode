@@ -1,0 +1,6 @@
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\04LiveLoops\bin\Debug\04LiveLoops.exe.config
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\04LiveLoops\bin\Debug\04LiveLoops.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\04LiveLoops\bin\Debug\04LiveLoops.pdb
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\04LiveLoops\obj\Debug\04LiveLoops.csprojResolveAssemblyReference.cache
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\04LiveLoops\obj\Debug\04LiveLoops.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\04LiveLoops\obj\Debug\04LiveLoops.pdb
