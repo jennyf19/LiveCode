@@ -1,0 +1,6 @@
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCodeStatic\bin\Debug\05LiveCodeStatic.exe.config
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCodeStatic\bin\Debug\05LiveCodeStatic.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCodeStatic\bin\Debug\05LiveCodeStatic.pdb
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCodeStatic\obj\Debug\05LiveCodeStatic.csprojResolveAssemblyReference.cache
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCodeStatic\obj\Debug\05LiveCodeStatic.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCodeStatic\obj\Debug\05LiveCodeStatic.pdb

@@ -1,0 +1,6 @@
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveEnum\bin\Debug\05LiveEnum.exe.config
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveEnum\bin\Debug\05LiveEnum.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveEnum\bin\Debug\05LiveEnum.pdb
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveEnum\obj\Debug\05LiveEnum.csprojResolveAssemblyReference.cache
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveEnum\obj\Debug\05LiveEnum.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveEnum\obj\Debug\05LiveEnum.pdb
