@@ -1,0 +1,5 @@
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCollections\bin\Debug\05LiveCollections.exe.config
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCollections\bin\Debug\05LiveCollections.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCollections\bin\Debug\05LiveCollections.pdb
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCollections\obj\Debug\05LiveCollections.exe
+C:\Users\ferri\OneDrive\Documents\Visual Studio 2015\Projects\Lesson 1\LiveCode\05LiveCollections\obj\Debug\05LiveCollections.pdb

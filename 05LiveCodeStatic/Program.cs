@@ -32,9 +32,14 @@ namespace _05LiveCodeStatic
         }
 
         //constructor
-        public Car() //instance constructor
+        public Car(int _serialNumber) //instance constructor
         {
-            _serialNumber = _nextSerialNumber++;
+            this._serialNumber = _serialNumber;
+        }
+
+        public Car(Car rhs)
+        {
+            this._serialNumber = rhs._serialNumber;
         }
 
         public static int NextAvailableSerialNumber
@@ -44,7 +49,20 @@ namespace _05LiveCodeStatic
         //no set needed so people outside can't modify the value
         public int SerialNumber
         {
-            get { return _serialNumber; }
+            get { return this._serialNumber; }
         }//no set needed so people outside can't modify the value
+    }
+
+    //static class only has static things in it
+    static class x
+    {
+        //static field
+        private static int y;
+
+        //static constructor
+        static x() { y = 0; }
+
+        //property to tell value of y
+        public static int Y { get { return y; } }
     }
 }
